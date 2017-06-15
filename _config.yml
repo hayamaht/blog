@@ -1,1 +1,14 @@
+# Name of blog
+name: 山籟
+
+# Short description
+description: 野風振山籟，朋鳥夜驚離。
+
+# The directory for category index pages
+category_dir: /cat
+
+# Base url
+baseUrl: /blog
+
+# Theme
 theme: jekyll-theme-leap-day
