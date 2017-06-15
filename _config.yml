@@ -1,14 +1,7 @@
-# Name of blog
 title: 山籟
-
-# Short description
 description: 野風振山籟，朋鳥夜驚離。
-
-# The directory for category index pages
 category_dir: /cat
-
-# Base url
 baseUrl: /blog
-
-# Theme
 theme: jekyll-theme-dinky
+twitter_username: hayamamkt
+github_username:  hayamaht
